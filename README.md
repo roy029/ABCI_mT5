@@ -2,6 +2,8 @@
 
 ABCIにログインします
 
+source work/bin/activate
+
 Python3を使用できるようにモジュールのダウンロードを行います。
 pip3のアップデートをします(いらないかもしれないです)
 python -m pip install --upgrade pip
