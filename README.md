@@ -4,6 +4,7 @@ ABCIにログインします
 
 Python3を使用できるようにモジュールのダウンロードを行います。
 pip3のアップデートをします(いらないかもしれないです)
+python -m pip install --upgrade pip
 
 このGithubをgit cloneします
 
